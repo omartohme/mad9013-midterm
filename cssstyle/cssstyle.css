@@ -23,7 +23,7 @@ h1, h2, h3{
   font-weight: inherit;
   line-height: 2.4rem;
   text-shadow: 1px 1px 2px black; 
-  color: grey;
+  color: #CC520E;
   font-size: 40px
 }
 p {
@@ -60,8 +60,8 @@ nav.mainnav ul li a {
 	white-space: nowrap;
 	text-decoration:none;
 	font-weight:900;
-	background:red;
-	color:#fff;
+	background: #FF6711;
+	color:#FF985D;
 	border-bottom:1px solid grey;
 	text-shadow: 1px 1px 2px black; 
 	border-radius: 50px;
